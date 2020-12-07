@@ -19,4 +19,8 @@ Your expected to make a visuvalization map on the Life expectancy of female popu
 
 6.Map should be interactive
 
+7.Follow google python coding style
+
+8.make sure your code works for any indicator and year
+
 
