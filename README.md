@@ -7,7 +7,7 @@ Your expected to make a visuvalization map on the Life expectancy of female popu
 2.indicators.csv->all countries indicators
 
 ## Instructions:
-1.for indicator  Life expectancy of female ->search on indicator column with 'Life expectancy at birt'
+1.for indicator  Life expectancy of female ->search on indicator column with 'Life expectancy at birth'
 
 2.Visvualize for year 2013
 
@@ -18,4 +18,5 @@ Your expected to make a visuvalization map on the Life expectancy of female popu
 5.Summarize the results ->identify which countries has higher life expectancy for females
 
 6.Map should be interactive
+
 
